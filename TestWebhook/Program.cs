@@ -20,7 +20,7 @@ namespace TestWebhook
 
         public static async Task TestHttpPOST()
         {
-            var url = "https://utilitypartnerswebhook.countygp.ab.ca/Webhook";
+            var url = "https://wephook-end-pint";
 
             var client = new HttpClient();
             // Add API key header

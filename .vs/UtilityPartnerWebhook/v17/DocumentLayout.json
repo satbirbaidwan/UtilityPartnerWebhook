@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7375011D-A9C7-40BD-99B0-2C9B78D0BD58}|TestWebhook\\TestWebhook.csproj|c:\\users\\su_sbaidwan\\source\\repos\\utilitypartnerwebhook\\testwebhook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7375011D-A9C7-40BD-99B0-2C9B78D0BD58}|TestWebhook\\TestWebhook.csproj|solutionrelative:testwebhook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7375011D-A9C7-40BD-99B0-2C9B78D0BD58}|TestWebhook\\TestWebhook.csproj|c:\\users\\su_sbaidwan\\source\\repos\\utilitypartnerwebhook\\testwebhook\\webhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7375011D-A9C7-40BD-99B0-2C9B78D0BD58}|TestWebhook\\TestWebhook.csproj|solutionrelative:testwebhook\\webhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebhookPayload.cs",
-              "DocumentMoniker": "C:\\Users\\su_sbaidwan\\source\\repos\\UtilityPartnerWebhook\\TestWebhook\\WebhookPayload.cs",
-              "RelativeDocumentMoniker": "TestWebhook\\WebhookPayload.cs",
-              "ToolTip": "C:\\Users\\su_sbaidwan\\source\\repos\\UtilityPartnerWebhook\\TestWebhook\\WebhookPayload.cs",
-              "RelativeToolTip": "TestWebhook\\WebhookPayload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T16:39:55.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\su_sbaidwan\\source\\repos\\UtilityPartnerWebhook\\TestWebhook\\Program.cs",
               "RelativeDocumentMoniker": "TestWebhook\\Program.cs",
               "ToolTip": "C:\\Users\\su_sbaidwan\\source\\repos\\UtilityPartnerWebhook\\TestWebhook\\Program.cs",
               "RelativeToolTip": "TestWebhook\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvyAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T16:39:13.186Z",
+              "WhenOpened": "2026-06-18T17:21:55.648Z",
               "EditorCaption": ""
             }
           ]
